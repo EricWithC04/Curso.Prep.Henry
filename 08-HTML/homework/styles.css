@@ -1,9 +1,17 @@
+* {
+	margin: auto;
+}
+
 h1 {
 	color: red;
 }
 
 img {
 	width: 400px;
+}
+
+.divClass {
+	display: flex;
 }
 
 #thirdDiv {
