@@ -1,0 +1,31 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: 'Oswald', sans-serif;
+}
+
+.container {
+	margin: 20px;
+}
+
+.titulo {
+	padding: 10px;
+	font-size: 30px;
+}
+
+.contenido {
+	padding: 10px;
+}
+
+.contenido img {
+	width: 400px;
+	height: 450px;
+}
+
+.desc {
+	font-size: 20px;
+}
+
+.seccion {
+	padding: 10px 0;
+}
